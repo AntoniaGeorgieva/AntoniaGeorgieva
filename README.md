@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width ="400" src = "https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniageorgieva&label=Profile%20views&color=0e75b6&style=flat" alt="antoniageorgieva" /> </p>
-<p  align="left"> "I am a student at Baba Tonka High School of Mathematics. Currently i am a student at SoftUni. I have successfully completed the C# and JavaScript Entry Module. Now I am progressing through the Fundamentals Module with JavaScript. My goal is to become front-end developer." </p>
+<p  align="left"> I am a student at Baba Tonka High School of Mathematics. Currently i am a student at SoftUni. I have successfully completed the C# and JavaScript Entry Module. Now I am progressing through the Fundamentals Module with JavaScript. My goal is to become front-end developer. </p>
 
 
 - 🌱 I’m currently learning **JavaScript, HTML and CSS**

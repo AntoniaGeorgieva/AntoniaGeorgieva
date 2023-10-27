@@ -11501,9 +11501,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UserDocs\\Toni\\Desktop\\project1\\project1.csproj",
-      "projectName": "project1",
-      "projectPath": "D:\\UserDocs\\Toni\\Desktop\\project1\\project1.csproj",
+      "projectUniqueName": "D:\\UserDocs\\Toni\\Desktop\\project1\\VolunteerHub.csproj",
+      "projectName": "VolunteerHub",
+      "projectPath": "D:\\UserDocs\\Toni\\Desktop\\project1\\VolunteerHub.csproj",
       "packagesPath": "C:\\Users\\Toni\\.nuget\\packages\\",
       "outputPath": "D:\\UserDocs\\Toni\\Desktop\\project1\\obj\\",
       "projectStyle": "PackageReference",

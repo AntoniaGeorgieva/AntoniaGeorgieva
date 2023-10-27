@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "D:\\UserDocs\\Toni\\Desktop\\project1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\project1.bundle.scp.css",
-      "PackagePath": "staticwebassets\\project1.bundle.scp.css"
+      "Id": "D:\\UserDocs\\Toni\\Desktop\\project1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VolunteerHub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VolunteerHub.bundle.scp.css"
     },
     {
       "Id": "D:\\UserDocs\\Toni\\Desktop\\project1\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.project1.props",
-      "PackagePath": "build\\project1.props"
-    },
-    {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.project1.props",
-      "PackagePath": "buildMultiTargeting\\project1.props"
-    },
-    {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.project1.props",
-      "PackagePath": "buildTransitive\\project1.props"
-    },
-    {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.project1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.VolunteerHub.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.VolunteerHub.props",
+      "PackagePath": "build\\VolunteerHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.VolunteerHub.props",
+      "PackagePath": "buildMultiTargeting\\VolunteerHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.VolunteerHub.props",
+      "PackagePath": "buildTransitive\\VolunteerHub.props"
     }
   ],
   "ElementsToRemove": []
